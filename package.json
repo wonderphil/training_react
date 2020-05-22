@@ -1,0 +1,15 @@
+{
+  "name": "training_react",
+  "version": "1.0.0",
+  "description": "Training App to connect to Ruby on Rails App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com:wonderphil/training_react.git"
+  },
+  "author": "Philip Davies",
+  "license": "ISC"
+}
